@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Amy Lee.
+- 👀 I’m interested in sorts of coding.
+- 🌱 I’m currently learning Rust and React
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me: Just here at GH.
+- 😄 Pronouns: Guess by name...
+- ⚡ Fun fact: AI still is ML
